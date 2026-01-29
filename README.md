@@ -1,33 +1,26 @@
-# Olá! Eu sou Luis Henrique Farias dos Santos 👋
+# Computer Science Student | Software Engineering
 
-### Estudante de Ciência da Computação na UTFPR. Desenvolvedor Full-Stack em Formação, focado em Lógica, Back-end e Banco de Dados.
+I am a Computer Science student (4th period) at UTFPR focused on building efficient, scope-driven software. My technical background ranges from low-level systems architecture to modern full-stack development.
 
----
+## Core Competencies
+I prioritize software engineering principles over framework dependency, treating technology as a tool to solve specific architectural challenges.
 
-### 🚀 Minha Missão Atual
-Estou focado em construir um portfólio robusto para ingressar no mercado de TI, alinhando a excelência acadêmica com a prática de engenharia de software moderna. **Busco uma oportunidade de Estágio**, priorizando posições que valorizem **Back-end** e **Arquitetura de Dados**.
+* **Low-Level & Systems:** Proficiency in C and MIPS Assembly. Strong understanding of Computer Architecture and Organization.
+* **Backend Development:** Java (Spring Boot), Python (Django), and RESTful API design.
+* **Frontend & Integration:** Vanilla JavaScript, HTML5, and CSS3 for decoupled web applications.
+* **Data Management:** Relational database modeling (MER), SQL, and PostgreSQL.
+* **Environments:** Advanced Linux user with experience in networking fundamentals and system optimization.
 
-### 💡 Minha Base Técnica e Diferenciais
-* **Lógica Fundamental Forte:** Base sólida em **C** e algoritmos, o que garante uma transição eficiente para qualquer nova linguagem.
-* **Profundidade em Fundamentos:** Conhecimento em arquitetura de CPU, comprovado pelo projeto de processador **MIPS 32-bit** em Logisim.
-* **Foco em Backend e Dados:** Forte conhecimento em **Modelagem de Banco de Dados (ER/SQL)** e iniciando a prática de implementação com **Python (Flask)** e **PostgreSQL**.
-* **Engenharia de Software:** Aplicando ativamente as melhores práticas de gerenciamento de projetos com **Git Flow** e buscando implementar **Docker** para consistência de ambiente.
+## Portfolio Highlights
+* **MIPS Processor:** A complete documented implementation of a MIPS processor architecture.
+* **Django Web Project:** A full-stack web application developed using the Django framework.
+* **Tactical Soccer Simulator:** Current project focused on real-time simulation, Java backend, and state synchronization via WebSockets.
 
----
+## Current Focus & Specialization
+I am currently specializing in Backend Engineering and Software Architecture. My current work involves:
+* Scaling Java-based systems with Spring Boot.
+* Implementing real-time communication using STOMP/WebSockets.
+* Refining documentation through UML and agile methodologies to ensure strict scope management.
 
-### 🛠️ Minha Stack Atual (e Próximos Passos)
-| Área | Conhecimento Sólido | Em Estudo Ativo |
-| :--- | :--- | :--- |
-| **Lógica/Base** | C, Algoritmos, Estruturas de Dados | - |
-| **Backend** | Python (Puro), Modelagem SQL, PostgreSQL |
-| **Frontend** | HTML e CSS (Em construção) | JavaScript (Puro e Orientação a Eventos) |
-| **Ferramentas** | Git / GitHub, Linux (Básico) | Git Flow / Virtualização |
-
----
-
-### 🔗 Onde me Encontrar
-https://www.linkedin.com/in/luishenriquefarias/
-
-lhfspro@gmail.com
-
----
+## Contact
+* **LinkedIn:** [(https://www.linkedin.com/in/luishenriquefarias/)]
