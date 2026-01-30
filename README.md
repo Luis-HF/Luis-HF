@@ -25,7 +25,7 @@ I prioritize software engineering principles over framework dependency, treating
 
 #### 🖥️ Interface Preview
 | Login System | Appointment Scheduling | Admin Dashboard |
-| ![Login](LINK_DA_FOTO_1) | ![Scheduling](LINK_DA_FOTO_2) | ![Admin](LINK_DA_FOTO_3) |
+| ![Login]([LINK_DA_FOTO_1](https://github.com/user-attachments/assets/29051f5a-0f22-4430-bd52-545a066afb21)) | ![Scheduling]([LINK_DA_FOTO_2](https://github.com/user-attachments/assets/37286075-ee7f-48bf-a4bc-66f4ae326674)) | ![Admin]([LINK_DA_FOTO_3](https://github.com/user-attachments/assets/5a576df4-1bfc-4340-b19c-22e4205d0227)) |
 
 👉 [**Access the Repository**](((https://github.com/ld-professional/project-softengineer-utfpr))
 
