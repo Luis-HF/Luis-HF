@@ -13,7 +13,22 @@ I prioritize software engineering principles over framework dependency, treating
 
 ## Portfolio Highlights
 * **MIPS Processor:** A complete documented implementation of a MIPS processor architecture.
-* **Django Web Project:** A full-stack web application developed using the Django framework.
+### 💈 Barbershop Management System
+> **Full-stack Web Application** developed in a collaborative GitHub Organization.
+
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Key Features:**
+* **Team Collaboration:** Developed in a trio using **Git Flow** and organization-based repositories.
+* **Architecture:** Focused on **Server-Side Rendering (SSR)** with Django Templates and MVT pattern.
+* **Security:** Integrated authentication and administrative control panels.
+
+#### 🖥️ Interface Preview
+| Login System | Appointment Scheduling | Admin Dashboard |
+| ![Login](LINK_DA_FOTO_1) | ![Scheduling](LINK_DA_FOTO_2) | ![Admin](LINK_DA_FOTO_3) |
+
+👉 [**Access the Repository**](((https://github.com/ld-professional/project-softengineer-utfpr))
+
 * **Tactical Soccer Simulator:** Current project focused on real-time simulation, Java backend, and state synchronization via WebSockets.
 
 ## Current Focus & Specialization
